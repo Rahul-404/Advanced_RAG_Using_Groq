@@ -40,7 +40,7 @@ To set up this project locally, follow these steps:
      GROQ_API_KEY=your-groq-api-key
      ```
 
-4. Ensure you have Python 3.7+ installed.
+4. Ensure you have Python 3.10+ installed.
 
 ---
 
