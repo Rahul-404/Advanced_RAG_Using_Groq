@@ -1,3 +1,6 @@
 streamlit
-langchain_gorq
+langchain_groq
+langchain_ollama
 langchain_community
+bs4
+faiss-cpu
